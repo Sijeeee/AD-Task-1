@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Car List</title>
-    <link href="assets/css/styles.css">
+    <link href="assets/css/styles.css" media= "all" rel="stylesheet">
 </head>
 <body>
     <h1>Available Cars</h1>
@@ -12,7 +12,10 @@
     $cars = [
         1 => ["Toyota", "Camry", 2020],
         2 => ["Honda", "Civic", 2021],
-        3 => ["Ford", "Focus", 2019]
+        3 => ["Ford", "Focus", 2019],
+        4 => ["Acura", "NSX", 2000],
+        5 => ["Toyota", "Supra", 2020],
+        6 => ["Mclaren", "F1", 2000]
     ];
     
     foreach ($cars as $id => $car) {
