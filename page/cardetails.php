@@ -10,12 +10,12 @@
     <?php
     
     $carDetails = [
-        1 => ["Toyota", "Camry", 2020, "Silver", "25000 miles"],
-        2 => ["Honda", "Civic", 2021, "Blue", "15000 miles"],
-        3 => ["Ford", "Focus", 2019, "Red", "35000 miles"],
-        4 => ["Acura", "NSX", 2000],
-        5 => ["Toyota", "Supra", 2020],
-        6 => ["Mclaren", "F1", 2000]
+        1 => ["Toyota", "Camry", 2020, "Silver", "2500 miles"],
+        2 => ["Honda", "Civic", 2021, "Blue", "6000 miles"],
+        3 => ["Ford", "Focus", 2019, "Blue", "5000 miles"],
+        4 => ["Acura", "NSX", 2000, "Red", "1000 miles"],
+        5 => ["Toyota", "Supra", 2020, "White", "2500 miles"],
+        6 => ["Mclaren", "F1", 2000, "Orange", "0 miles"]
     ];
     
     if (isset($_GET['id']) && isset($carDetails[$_GET['id']])) {
