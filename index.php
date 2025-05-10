@@ -22,7 +22,7 @@
         echo '<div class="car">';
         echo '<h3>' . $car[0] . ' ' . $car[1] . '</h3>';
         echo '<p>Year: ' . $car[2] . '</p>';
-        echo '<a href="assets/page/cardetails.php?id=' . $id . '">View Details</a>';
+        echo '<a href="page/cardetails.php?id=' . $id . '">View Details</a>';
         echo '</div>';
     }
     ?>
