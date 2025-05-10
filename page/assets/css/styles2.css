@@ -19,3 +19,21 @@ body {
     background-color: white;
     color: black;
 }
+
+.details {
+    max-width: 600px;
+    margin: 0 auto;
+    border: 1px solid white;
+    padding: 30px;
+}
+
+.details h2 {
+    margin-top: 0;
+    border-bottom: 1px solid white;
+    padding-bottom: 15px;
+}
+
+.details p {
+    margin: 12px 0;
+    line-height: 1.6;
+}
