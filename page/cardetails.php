@@ -2,10 +2,10 @@
 <html>
 <head>
     <title>Car Details</title>
-    <link href="assets/page/assets/css/styles.css">
+    <link href="assets/css/styles.css" rel="stylesheet">
 </head>
 <body>
-    <a href="index.php">← Back to list</a>
+    <a href="../index.php" class="back-link">← Back to list</a>
     
     <?php
     
