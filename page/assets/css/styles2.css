@@ -21,10 +21,13 @@ body {
 }
 
 .details {
-    max-width: 600px;
+    max-width: 800px;
     margin: 0 auto;
     border: 1px solid white;
     padding: 30px;
+    display: flex;
+    gap: 30px;
+    align-items: center;
 }
 
 .details h2 {
@@ -36,4 +39,21 @@ body {
 .details p {
     margin: 12px 0;
     line-height: 1.6;
+}
+
+.car-image {
+    flex: 1;
+    padding: 10px;
+}
+.car-image img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #444;
+    display: block;
+}
+
+.car-info {
+    flex: 1;
+    padding: 10px;
 }
