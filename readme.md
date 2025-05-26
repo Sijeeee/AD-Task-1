@@ -83,7 +83,6 @@ It is a car listing website where users can view cars displayed, and their detai
 #### Databases
 
 #### Deployment
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## Rules, Practices and Principles
 
@@ -137,7 +136,6 @@ AD-ProjectName
 
 | Title        | Purpose                                                                       | Link          |
 | ------------ | ----------------------------------------------------------------------------- | ------------- |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+|   Google     | Source of the images used.                                                    |  google.com   |
+|  ChatGPT     | Utilized it for logic breakdowns.                                             |  chatgpt.com  |
+| W3Schools    | Sample purpose would be here like this and this is the example of what it is. | w3schools.com |
